@@ -1,4 +1,4 @@
-# LlamaIndex Agents Course — Learning & Practical Implementations
+# LlamaIndex Agents Course - Learning & Practical Implementations
 
 A hands-on learning repository documenting my journey through the **LlamaIndex module of the Hugging Face Agents Course (Unit 2)**. This repository covers LlamaIndex fundamentals, integrations, RAG, tools, agents, multi-agent systems, and event-driven agentic workflows, with practical implementations in Python using VS Code.
 
